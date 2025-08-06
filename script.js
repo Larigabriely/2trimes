@@ -19,7 +19,10 @@ const perguntas = [
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "afirmacao"
+                afirmacao:  [
+            "Quis saber como usar IA no seu dia a dia.",
+            "Pensou que IA pode ajudar em tarefas da sua vida."
+        ]
             }           
             
         ]
