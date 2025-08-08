@@ -41,3 +41,7 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
+
+text {
+    padding: 100px;
+}
