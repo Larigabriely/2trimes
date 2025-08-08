@@ -21,7 +21,8 @@ const perguntas = [
                 afirmacao:  [
             "lucas"
         ]
-            }         
+            }
+            
             
         ]
     },
@@ -30,11 +31,11 @@ const perguntas = [
         alternativas: [
             {
             texto: "terra",
-                afirmacao:"esta sabendo muito"
+                afirmacao:"assim como todos os dias,eu sempre tenho uma rotina a ser seguida,"
             },
             {
                 texto: "saturno",
-                afirmacao:"afirmacao"
+                afirmacao:"após muito tempo longe de casa, decidiu retornar ao seu planeta natal,"
             }
         ]
     },
