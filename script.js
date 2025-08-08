@@ -115,7 +115,7 @@ function respostaSelecionada(opcaoSelecionada){
 function mostraResultado(){
     caixaPerguntas.textContent = "Era uma vez...";
     textoResultado.textContent = historiaFinal;
-    caixaAlternativas.textContent = ";;;;"; 
+    caixaAlternativas.textContent = ""; 
 }
 
 mostraPergunta();
