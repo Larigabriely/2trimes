@@ -12,14 +12,14 @@ const perguntas = [
             {
                 texto: "ana",
                 afirmacao: [
-            "ana"
+            "ana,"
         ]
  
             },
             {
                 texto: "lucas",
                 afirmacao:  [
-            "lucas"
+            "lucas,"
         ]
             }
             
@@ -31,7 +31,7 @@ const perguntas = [
         alternativas: [
             {
             texto: "terra",
-                afirmacao:"assim como todos os dias,eu sempre tenho uma rotina a ser seguida,"
+                afirmacao:"assim como todos os dias,sempre tem uma rotina a ser seguida,"
             },
             {
                 texto: "saturno",
@@ -44,11 +44,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:"aventureiro",
-                afirmacao:"afirmacao"
+                afirmacao:"apesar das inumeras aventuras,nunca se esqueceu da tranquilida que sentia antes de começar a jornada,"
             },
             {
                 texto:" humano trabalhador",
-                afirmacao:"afirmacao"
+                afirmacao:"eu me dedico ao maximo no meu trabalho, sempre mostrando resultados,"
             }
             
         ]
@@ -58,11 +58,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:"os dias era triquilos",
-                afirmacao:"afirmacao"
+                afirmacao:"nos dias quentes ou frios em sempre procuro relaxar idependente da situação"
             },
             {
                 texto:"sempre tinha algo novo para fazer",
-                afirmacao:"afirmacao"
+                afirmacao:"não conseguia ficar um dia sequer parado,só de pensar que ainda existe tantas coisas para fazer. "
             }
             
         ]
