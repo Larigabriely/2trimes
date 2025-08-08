@@ -16,7 +16,7 @@ body {
     min-height: 100vh;
 }
 
-caixa-principal{
+.caixa-principal{
     background-color: var(--cor-principal);
     width: 90%;
     max-width: 620px;
