@@ -35,13 +35,10 @@ button {
     border-radius: 60px;
     padding: 10px;
     transition: background-color 0.3s;
+    margin: 500px;
 }
 
 button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
-}
-
-text {
-    padding: 100%;
 }
