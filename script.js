@@ -7,60 +7,60 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: " Quem pintou a Mona Lisa?",
+        enunciado: " Qual será o nome do personagem?",
         alternativas: [
             {
-                texto: "Picasso",
+                texto: "ana",
                 afirmacao: [
-            "apesar de ser parecido nao foi ele"
+            "ana"
         ]
  
             },
             {
-                texto: "Leonardo da Vinci",
+                texto: "lucas",
                 afirmacao:  [
-            "meus parabends"
+            "lucas"
         ]
-            }           
+            }         
             
         ]
     },
     {
-        enunciado: "Qual é a maior ilha do mundo?",
+        enunciado: "Qual o nome do planeta natal dele(a)?",
         alternativas: [
             {
-            texto: "groelãndia",
+            texto: "terra",
                 afirmacao:"esta sabendo muito"
             },
             {
-                texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "saturno",
                 afirmacao:"afirmacao"
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "o que ele(a) é?",
         alternativas: [
             {
-                texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto:"aventureiro",
                 afirmacao:"afirmacao"
             },
             {
-                texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto:" humano trabalhador",
                 afirmacao:"afirmacao"
             }
             
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "como era o dia?",
         alternativas: [
             {
-                texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto:"os dias era triquilos",
                 afirmacao:"afirmacao"
             },
             {
-                texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto:"sempre tinha algo novo para fazer",
                 afirmacao:"afirmacao"
             }
             
