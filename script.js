@@ -65,9 +65,9 @@ const perguntas = [
         enunciado: "como era o dia?",
         alternativas: [
             {
-                texto:"os dias era triquilos",
+                texto:"os dias era tranquilos",
                 afirmacao:[ 
-                    "nos dias quentes ou frios em sempre procuro relaxar idependente da situação"
+                    "nos dias quentes ou frios sempre procura relaxar idependente da situação"
                 ]
                 },
             {
