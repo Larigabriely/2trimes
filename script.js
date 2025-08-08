@@ -21,7 +21,7 @@ const perguntas = [
                 afirmacao:  [
             "lucas,"
         ]
-            }
+            },
             
             
         ]
@@ -31,12 +31,16 @@ const perguntas = [
         alternativas: [
             {
             texto: "terra",
-                afirmacao:"assim como todos os dias,sempre tem uma rotina a ser seguida,"
-            },
+                afirmacao: [
+            "assim como todos os dias,sempre tem uma rotina a ser seguida,"
+                ]
+        },
             {
                 texto: "saturno",
-                afirmacao:"após muito tempo longe de casa, decidiu retornar ao seu planeta natal,"
-            }
+                afirmacao:[
+        "após muito tempo longe de casa, decidiu retornar ao seu planeta natal,"
+                ]       
+    },
         ]
     },
     {
@@ -44,26 +48,34 @@ const perguntas = [
         alternativas: [
             {
                 texto:"aventureiro",
-                afirmacao:"apesar das inumeras aventuras,nunca se esqueceu da tranquilida que sentia antes de começar a jornada,"
-            },
+                afirmacao: [
+                    "apesar das inumeras aventuras,nunca se esqueceu da tranquilida que sentia antes de começar a jornada,"
+                ]
+                },
             {
                 texto:" humano trabalhador",
-                afirmacao:"eu me dedico ao maximo no meu trabalho, sempre mostrando resultados,"
-            }
+                afirmacao:[ 
+                    "eu me dedico ao maximo no meu trabalho, sempre mostrando resultados,"
+                ]
+                },
             
         ]
     },
-    {
+         {
         enunciado: "como era o dia?",
         alternativas: [
             {
                 texto:"os dias era triquilos",
-                afirmacao:"nos dias quentes ou frios em sempre procuro relaxar idependente da situação"
-            },
+                afirmacao:[ 
+                    "nos dias quentes ou frios em sempre procuro relaxar idependente da situação"
+                ]
+                },
             {
                 texto:"sempre tinha algo novo para fazer",
-                afirmacao:"não conseguia ficar um dia sequer parado,só de pensar que ainda existe tantas coisas para fazer. "
-            }
+                afirmacao:[
+                    "não conseguia ficar um dia sequer parado,só de pensar que ainda existe tantas coisas para fazer. "
+                ]
+                }
             
         ]
     }
