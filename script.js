@@ -55,7 +55,7 @@ const perguntas = [
             {
                 texto:" humano trabalhador",
                 afirmacao:[ 
-                    "eu me dedico ao maximo no meu trabalho, sempre mostrando resultados,"
+                    " me dedico ao maximo no meu trabalho, sempre mostrando resultados,"
                 ]
                 },
             
