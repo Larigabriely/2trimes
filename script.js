@@ -32,7 +32,7 @@ const perguntas = [
             {
             texto: "terra",
                 afirmacao: [
-            "assim como todos os dias,sempre tem uma rotina a ser seguida,"
+            "que assim como todos os dias,sempre tem uma rotina a ser seguida,"
                 ]
         },
             {
@@ -113,9 +113,9 @@ function respostaSelecionada(opcaoSelecionada){
 }
 
 function mostraResultado(){
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Era uma vez...";
     textoResultado.textContent = historiaFinal;
-    caixaAlternativas.textContent = ""; 
+    caixaAlternativas.textContent = ";;;;"; 
 }
 
 mostraPergunta();
